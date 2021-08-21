@@ -11,7 +11,7 @@ Select* From Especialidades
 Select* From Situacao
 
 
-SELECT DataConsulta,NomeUsuario as NomePaciente,Consultas.idMedico, Situacao.Descricao as Situção,Consultas.Descricao FROM Consultas
+SELECT DataConsulta,NomeUsuario as NomePaciente,Consultas.idMedico, Situacao.Descricao as SituÃ§Ã£o,Consultas.Descricao FROM Consultas
 INNER JOIN Prontuario
 ON Prontuario.idProntuario = Consultas.idProntuario
 LEFT JOIN Usuario
@@ -36,7 +36,7 @@ SELECT NomeUsuario, DATEDIFF(year,DataNasc,getdate()) as Idade FROM Prontuario
 LEFT JOIN Usuario
 ON Prontuario.idUsuario = Usuario.idUsuario
 
---Retornar a quantidade de médicos de uma determinada especialidade
+--Retornar a quantidade de mÃ©dicos de uma determinada especialidade
 SELECT COUNT(idMedico) AS QuantMedicos FROM Medicos WHERE idEspecialidade = 17
 SELECT COUNT(idMedico) AS QuantMedicos FROM Medicos WHERE idEspecialidade = 16
 
