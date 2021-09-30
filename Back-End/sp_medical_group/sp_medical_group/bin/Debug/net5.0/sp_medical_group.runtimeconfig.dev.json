@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Super Shock\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Super Shock\\.nuget\\packages"
+    ]
+  }
+}
