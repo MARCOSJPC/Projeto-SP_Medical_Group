@@ -29,6 +29,7 @@ namespace sp_medical_group.Controllers
         /// Listar Todas as consultas de um determinado usuario
         /// </summary>
         /// <returns>uma lista de consultas</returns>
+        
         [HttpGet("consultas")]
         public IActionResult ListarMinhas()
         {

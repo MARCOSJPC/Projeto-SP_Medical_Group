@@ -1,0 +1,205 @@
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\appsettings.json
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.exe
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.deps.json
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.runtimeconfig.json
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.runtimeconfig.dev.json
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\ref\sp_medical_group.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.pdb
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.csproj.AssemblyReference.cache
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.AssemblyInfoInputs.cache
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.AssemblyInfo.cs
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.csproj.CoreCompileInputs.cache
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\staticwebassets\sp_medical_group.StaticWebAssets.Manifest.cache
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\scopedcss\bundle\sp_medical_group.styles.css
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.RazorTargetAssemblyInfo.cache
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.csproj.CopyComplete
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\ref\sp_medical_group.dll
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.pdb
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.genruntimeconfig.cache
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.xml
+C:\Users\Super Shock\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.xml
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\appsettings.json
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.exe
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.deps.json
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.runtimeconfig.json
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.runtimeconfig.dev.json
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\ref\sp_medical_group.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.pdb
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.xml
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Humanizer.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.csproj.AssemblyReference.cache
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.AssemblyInfoInputs.cache
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.AssemblyInfo.cs
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.csproj.CoreCompileInputs.cache
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\staticwebassets\sp_medical_group.StaticWebAssets.Manifest.cache
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\staticwebassets\sp_medical_group.StaticWebAssets.xml
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\scopedcss\bundle\sp_medical_group.styles.css
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.RazorTargetAssemblyInfo.cache
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.csproj.CopyComplete
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\ref\sp_medical_group.dll
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.xml
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.pdb
+C:\Users\51371754802\OneDrive\Área de Trabalho\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.genruntimeconfig.cache
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\appsettings.json
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.exe
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.deps.json
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.runtimeconfig.json
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.runtimeconfig.dev.json
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\ref\sp_medical_group.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.pdb
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\sp_medical_group.xml
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Humanizer.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.csproj.AssemblyReference.cache
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.AssemblyInfoInputs.cache
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.AssemblyInfo.cs
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.csproj.CoreCompileInputs.cache
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\staticwebassets\sp_medical_group.StaticWebAssets.Manifest.cache
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\scopedcss\bundle\sp_medical_group.styles.css
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.RazorTargetAssemblyInfo.cache
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.csproj.CopyComplete
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\ref\sp_medical_group.dll
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.xml
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.pdb
+C:\Users\51371754802\OneDrive\Documentos\SENAI\DEV\2 Semestre\Projeto SP_MEDICAL_GROUP\Back-End\sp_medical_group\sp_medical_group\obj\Debug\net5.0\sp_medical_group.genruntimeconfig.cache

@@ -1,4 +1,4 @@
-USE SP_Medical_Group;
+USE SP_Medical_Group7;
 GO
 
 --TIPO USUARIO
@@ -9,7 +9,8 @@ GO
 
 --USUARIO
 INSERT INTO Usuario (idTipoUsuario, NomeUsuario, Email, Senha)
-VALUES	(2,'Ricardo Lemos','ricardo.lemos@spmedicalgroup.com.br0','123456789'),
+VALUES	(1,'Marcos Paulo','admin@admin.com','777444123'),
+		(2,'Ricardo Lemos','ricardo.lemos@spmedicalgroup.com.br','123456789'),
 		(2,'Roberto Possarle','roberto.possarle@spmedicalgroup.com.br','987654321'),
 		(2,'Helena Starada','helena.souza@spmedicalgroup.com.br','123789456'),
 		(3,'Ligia','ligia@gmail.com','789456123'),
@@ -53,9 +54,9 @@ GO
 
 -- MEDICOS
 INSERT INTO Medicos(idUsuario,idClinica,idEspecialidade,Crm)
-VALUES	(1,1,2,'54356-SP'),
-		(2,1,17,'53452-SP'),
-		(3,1,16,'65463-SP');
+VALUES	(2,1,2,'54356-SP'),
+		(3,1,17,'53452-SP'),
+		(4,1,16,'65463-SP');
 GO
 
 
@@ -83,9 +84,9 @@ VALUES	('20/01/2020 15:00',7,3,1,'Gripe'),
 		('06/01/2020 10:00',2,2,2,null),
 		('07/02/2020 11:00',3,2,1,'Sintomas depressivos'),
 		('06/02/2018 10:00',2,2,1,'Problemas para dormir'),
-		('07/02/2019 11:00',4,1,2,null),
-		('07/02/2019 11:00',7,3,3,null),
-		('09/03/2020 11:00',4,1,3,null);
+		('07/02/2021 11:00',4,1,3,null),
+		('07/02/2021 11:00',7,3,2,null),
+		('09/03/2021 11:00',4,1,3,null);
 GO
 
 
@@ -94,4 +95,3 @@ GO
 --DELETE FROM Consultas
 
 
---

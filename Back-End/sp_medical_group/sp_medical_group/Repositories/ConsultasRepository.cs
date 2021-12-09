@@ -1,4 +1,5 @@
-﻿using sp_medical_group.Contexts;
+﻿using Microsoft.EntityFrameworkCore;
+using sp_medical_group.Contexts;
 using sp_medical_group.Domains;
 using sp_medical_group.Interfaces;
 using System;
@@ -66,9 +67,6 @@ namespace sp_medical_group.Repositories
             ctx.SaveChanges();
         }
 
-        public List<Consulta> Listar()
-        {
-            return ctx.Consultas.ToList();
-        }
+       
     }
 }

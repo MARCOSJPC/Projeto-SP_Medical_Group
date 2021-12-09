@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 
 #nullable disable
 
@@ -15,13 +14,9 @@ namespace sp_medical_group.Domains
         }
 
         public int IdUsuario { get; set; }
-        public byte? IdTipoUsuario { get; set; }
+        public int? IdTipoUsuario { get; set; }
         public string NomeUsuario { get; set; }
-        
-        [Required(ErrorMessage = "O campo email é obrigatorio!")]
         public string Email { get; set; }
-
-        [Required(ErrorMessage = "O campo senha é obrigatorio!")]
         public string Senha { get; set; }
 
         public virtual TipoUsuario IdTipoUsuarioNavigation { get; set; }

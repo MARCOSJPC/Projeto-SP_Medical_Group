@@ -1,4 +1,4 @@
-USE SP_Medical_Group;
+USE SP_Medical_Group7;
 GO
 
 Select* From Consultas

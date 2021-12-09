@@ -1,0 +1,100 @@
+@charset "UTF-8";
+
+body {
+    margin: 0px;
+}
+.informacoes {
+    background-color: #1F76DB ;
+    height: 30px;
+    width: 100%;
+}
+
+.cabeçalho_text {
+    font-family: Arial, Helvetica, sans-serif;
+    color :#fff;
+    font-size: 10px;
+    margin-bottom: 10px;
+    padding-left: 26px;
+}
+.text_img{
+    margin-top: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.img_cabecalho{
+    position: absolute;
+    padding-top: 5px;
+    height: 20px;
+    width: 20px;
+}
+#redes{
+    position: absolute;
+    left: 93%;
+    top: 0%;
+    width: 68px;
+    height: 29px;
+    display: inline-block;
+}
+.img_redes{
+    padding-top: 5px;
+    height: 20px;
+    width: 20px;
+}
+.bg{
+    background-image: url("../imagens/14999.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.form-login{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+.img_form{
+    position: relative;
+    height: 22px;
+    width: 24px;
+    margin: -13px;
+    margin-right: -4px;
+    padding: 6.5px;
+    background-color: #1F76DB;
+}
+.icone_login{
+    width: 130px;
+    margin-bottom: 10px;
+}
+.item{
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+.input_login{
+    background-color: #E5E5E5;
+    border: none;
+    width: 300px;
+    padding: 10px;
+    text-align: left;
+    color: #141414;
+    outline: none;
+}
+.btn{
+    background-color: #1F76DB;
+    border: none;
+    color: #fff;
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px 0px rgba(119, 119, 119, 0.562);   
+}
+.btn:hover{
+    background-color: rgba(255, 255, 255, 0.637);
+    color: #1F76DB;
+    box-shadow: 2px 2px 5px 0px rgba(119, 119, 119, 0.562);
+}
+

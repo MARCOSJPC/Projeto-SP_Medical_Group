@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Contexts",
+    "\\Controllers",
+    "\\Domains",
+    "\\Interfaces",
+    "\\Repositories"
+  ],
+  "SelectedNode": "\\Contexts\\SpMedicalContext.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -69,16 +69,6 @@ namespace sp_medical_group.Controllers
             return StatusCode(201);
         }
 
-        /// <summary>
-        /// Lista todas as Consultas
-        /// </summary>
-        /// <returns>Uma lista de consultas com um status code 200 - Ok</returns>
-        [Authorize(Roles = "1")]
-        [HttpGet]
-        public IActionResult Listar()
-        {
-            return Ok(_consultasRepository.Listar());
-        }
 
         /// <summary>
         ///  Deleta uma consulta existente

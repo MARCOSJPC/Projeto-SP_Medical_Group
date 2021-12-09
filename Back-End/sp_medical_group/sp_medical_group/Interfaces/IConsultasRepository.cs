@@ -22,11 +22,7 @@ namespace sp_medical_group.Interfaces
         /// <param name="descrição">parâmetro que atualiza a descrição de uma consulta</param>
         void AdicionarDescricao(int idConsulta, Consulta descrição);
 
-        /// <summary>
-        /// Lista todas as consultas
-        /// </summary>
-        /// <returns>Uma lista de Consultas</returns>
-        List<Consulta> Listar();
+        
 
         /// <summary>
         /// Agenda uma nova consulta

@@ -62,12 +62,6 @@
             <param name="novaConsulta">Objeto novaConsulta com os dados que serão cadastrados</param>
             <returns>Um status code 201 - Created</returns>
         </member>
-        <member name="M:sp_medical_group.Controllers.ConsultasController.Listar">
-            <summary>
-            Lista todas as Consultas
-            </summary>
-            <returns>Uma lista de consultas com um status code 200 - Ok</returns>
-        </member>
         <member name="M:sp_medical_group.Controllers.ConsultasController.Deletar(System.Int32)">
             <summary>
              Deleta uma consulta existente
@@ -244,12 +238,6 @@
             </summary>
             <param name="idConsulta">ID da Consulta que terá a dscrição alterada</param>
             <param name="descrição">parâmetro que atualiza a descrição de uma consulta</param>
-        </member>
-        <member name="M:sp_medical_group.Interfaces.IConsultasRepository.Listar">
-            <summary>
-            Lista todas as consultas
-            </summary>
-            <returns>Uma lista de Consultas</returns>
         </member>
         <member name="M:sp_medical_group.Interfaces.IConsultasRepository.Agendar(sp_medical_group.Domains.Consulta)">
             <summary>

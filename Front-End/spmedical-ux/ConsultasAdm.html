@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultas</title>
+    <link rel="stylesheet" href="./assets/css/Consultas.css">
+</head>
+
+<body class="bg">
+    <header>
+        <nav class="informacoes">
+            <div class="text_img">
+                <img src="assets/imagens/icon/icon_local.png" alt="endereço" class="img_cabecalho">
+                <p class="cabeçalho_text">Av. Barão Limeira, 532, São Paulo, SP</p>
+            </div>
+            <div class="text_img">
+                <img src="assets/imagens/icon/icon_phone.png" alt="telefone" class="img_cabecalho">
+                <p class="cabeçalho_text">(11) 2055-4477 | (11) 2055-7744</p>
+            </div>
+            <div class="text_img">
+              <img src="assets/imagens/icon/icon_mail.png" alt="email" class="img_cabecalho">
+                <p class="cabeçalho_text">spmedicalgroup@gmail.com</p>
+            </div>
+            <div id="redes">
+                <img src="assets/imagens/icon/icons8-facebook-novo.svg" alt="facebook" class="img_redes">
+                <img src="assets/imagens/icon/icons8-instagram.svg" alt="instagram" class="img_redes">
+                <img src="assets/imagens/icon/icons8-linkedin.svg" alt="linkedin" class="img_redes">
+            </div>
+        </nav>
+        <div class="cabecalhoPrincipal">
+            <div class="container">
+                <img src="assets/imagens/logo.png" alt="logo Sp-Medical Group">
+                <h1> MEDICAL GROUP</h1>
+                <nav class="cabecalho-nav">
+                    <a>Home</a>
+                    <a>Médicos</a>
+                    <a>Prontuários</a>
+                    <a>Especialidades</a>
+                    <a>Consultas</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <main class="conteudoPrincipal">
+        <h2 class="titulo">CONSULTAS</h2>
+        <hr>
+        <div class="container" id="listaConsultas">
+            <h3 class="subtitulo">Lista de Consultas</h3>
+            
+            <div>
+                <div className="card2">
+                    <p>{idtipo == 3 ? "Medicos : " : "Pacientes : "}</p>
+                    <p className="TxtLado">{idtipo == 3 ? l.idMedicoNavigation.nomeMedico : l.idPacienteNavigation.nomePaciente}</p>
+                </div>
+
+                <div className="card2">
+                    <p>Data :</p>
+                    <p className="TxtLado">{Intl.DateTimeFormat("pt-BR").format(new Date(l.dataConsulta))}</p>
+                </div>
+                <div className="card2">
+                    <p>Descrição :</p>
+                    <p className="TxtLado">{l.descricao}</p>
+                    {idtipo == 2 && 
+                    <Link to="/descricao" >
+                    <img src={AddImage} style = width: 21px, height: 21, marginLeft:3}}/>
+                    </Link>
+                    
+                    }
+                    
+                    
+                </div>
+             </div>
+             <div>
+                 <div className="card2">
+                     <p>Status : </p>
+                     <p className="TxtLado">{l.idSituacaoNavigation.situacao1}</p>
+                 </div>
+                 <div className="card2">
+                     <p>Especialidade : </p>
+                     <p className="TxtLado">{l.idMedicoNavigation.idEspecialidadeNavigation.nomeEspecialidade}</p>
+                 </div>
+                 <div className="card2">
+                     {idtipo == 1 && <p>Medicos : </p>}
+                     {idtipo == 1 && <p className="TxtLado">{l.idMedicoNavigation.nomeMedico}</p>}
+                 </div>
+             </div>
+
+
+        /*</div>
+        <div class="AgendarConsulta">
+            <h3 class="subtitulo"> Agendar Consulta</h3>
+            <input class="input-agendar" type="text" placeholder="ID Prontuario">
+            <input class="input-agendar" type="text" placeholder="ID Médico">
+            <input class="input-agendar" type="text" placeholder="Data da Consulta">
+            <input class="input-agendar" type="text" placeholder="Descrição">
+            <input class="input-agendar" type="text" placeholder="Situação">
+            <button class="btn">
+                Agendar
+            </button>
+        </div>*/
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>

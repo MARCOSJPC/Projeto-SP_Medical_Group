@@ -1,7 +1,7 @@
-CREATE DATABASE SP_Medical_Group;
+CREATE DATABASE SP_Medical_Group7;
 GO 
 
-USE SP_Medical_Group;
+USE SP_Medical_Group7;
 GO
 
 
@@ -32,14 +32,14 @@ CREATE TABLE Clinicas (
 GO
 --- TIPOUSUARIO
 CREATE TABLE TipoUsuario (
-  idTipoUsuario TINYINT PRIMARY KEY IDENTITY,
+  idTipoUsuario INT PRIMARY KEY IDENTITY,
   TituloTipoUsuario VARCHAR(50) UNIQUE NOT NULL
 );
 GO
 -- USUARIO
 CREATE TABLE Usuario (
 	  idUsuario INT PRIMARY KEY IDENTITY,
-	  idTipoUsuario TINYINT FOREIGN KEY REFERENCES TipoUsuario(idTipoUsuario),
+	  idTipoUsuario INT FOREIGN KEY REFERENCES TipoUsuario(idTipoUsuario),
 	  NomeUsuario VARCHAR(100) NOT NULL,
 	  Email VARCHAR(256) UNIQUE NOT NULL,
 	  Senha VARCHAR(15) NOT NULL CHECK( len(senha) >= 8)

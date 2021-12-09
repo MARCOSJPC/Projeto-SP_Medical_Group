@@ -1,0 +1,386 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>sp_medical_group</name>
+    </assembly>
+    <members>
+        <member name="M:sp_medical_group.Controllers.ClinicasController.Listar">
+            <summary>
+            Lista todos as clinias
+            </summary>
+            <returns>Uma lista de clinicas com um status code 200 - Ok</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ClinicasController.BuscarPorId(System.Int32)">
+            <summary>
+            Busca uma clinica através do seu id
+            </summary>
+            <param name="idClinica">ID da clinica que será buscado</param>
+            <returns>Uma clinica e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ClinicasController.Cadastrar(sp_medical_group.Domains.Clinica)">
+            <summary>
+            Cadastra um nova Clinica
+            </summary>
+            <param name="novaClinica">Objeto com os dados que serão cadastrados</param>
+            <returns>Um status code 201 - Created</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ClinicasController.Atualizar(System.Byte,sp_medical_group.Domains.Clinica)">
+            <summary>
+            Atualiza uma Clinica existente
+            </summary>
+            <param name="idClinica">ID da Clinica que será atualizado</param>
+            <param name="clinicaAtualizada">Objeto com os novos dados</param>
+            <returns>Um status code 204 - No Content</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ClinicasController.Deletar(System.Int32)">
+            <summary>
+            Deleta uma clinica existente
+            </summary>
+            <param name="idClinica">id da clinica que será deletada</param>
+            <returns>um status code 204 - no content</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ConsultasController.AtualizarSituacao(System.Int32,sp_medical_group.Domains.Situacao)">
+            <summary>
+            Atualiza a situação de uma consulta
+            </summary>
+            <param name="idConsulta">id da consulta que será atualizada</param>
+            <param name="status">situação da consulta</param>
+            <returns>um status code 201 - No Content</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ConsultasController.AdicionarDescricao(System.Int32,sp_medical_group.Domains.Consulta)">
+            <summary>
+            adiciona ou altera a descrição de uma determinada consulta
+            </summary>
+            <param name="idConsulta">id da consulta que terá a descrição aterada</param>
+            <param name="descrição">objeto que receberá a descrição da consulta</param>
+            <returns>um status code 201 - created</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ConsultasController.Agendar(sp_medical_group.Domains.Consulta)">
+            <summary>
+            Agenda uma nova consulta
+            </summary>
+            <param name="novaConsulta">Objeto novaConsulta com os dados que serão cadastrados</param>
+            <returns>Um status code 201 - Created</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ConsultasController.Deletar(System.Int32)">
+            <summary>
+             Deleta uma consulta existente
+            </summary>
+            <param name="idConsulta">ID da consulta que será deletada</param>
+            <returns>Um status code 204 - No Content</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ConsultasController.BuscarPorId(System.Int32)">
+            <summary>
+            Busca uma consulta através do seu id
+            </summary>
+            <param name="idConsulta">ID da consulta que será buscada</param>
+            <returns>Um estúdio e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.MedicosController.Listar">
+            <summary>
+            Lista todos os Medicos
+            </summary>
+            <returns>Uma lista de Medicos com um status code 200 - Ok</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.MedicosController.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um Medico através do seu id
+            </summary>
+            <param name="idMedico">ID do Medico que será buscado</param>
+            <returns>Um Medico e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.MedicosController.Cadastrar(sp_medical_group.Domains.Medico)">
+            <summary>
+            Cadastra um novo medico
+            </summary>
+            <param name="novoMedico">Objeto com os dados que serão cadastrados</param>
+            <returns>Um status code 201 - Created</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.MedicosController.Atualizar(System.Int32,sp_medical_group.Domains.Medico)">
+            <summary>
+            Atualiza um medico existente
+            </summary>
+            <param name="idMedico">ID do medico que será atualizado</param>
+            <param name="medicoAtualizado">Objeto com os novos dados</param>
+            <returns>Um status code 204 - No Content</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.MedicosController.Deletar(System.Int32)">
+            <summary>
+            deleta um medico através do seu ID
+            </summary>
+            <param name="idMedico">Id do médico que será deletado</param>
+            <returns>Um status code 204 - No content</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ProntuarioController.Listar">
+            <summary>
+            Lista todos os Prontuarios
+            </summary>
+            <returns>Uma lista de estúdios com um status code 200 - Ok</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ProntuarioController.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um Prontuario através do seu id
+            </summary>
+            <param name="idProntuario">ID do estúdio que será buscado</param>
+            <returns>Um estúdio e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ProntuarioController.Cadastrar(sp_medical_group.Domains.Prontuario)">
+            <summary>
+            Cadastra um novo Prontuario
+            </summary>
+            <param name="novoProntuario">Objeto com os dados que serão cadastrados</param>
+            <returns>Um status code 201 - Created</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ProntuarioController.Atualizar(System.Int32,sp_medical_group.Domains.Prontuario)">
+            <summary>
+            Atualiza um pronruário existente
+            </summary>
+            <param name="idProntuario">ID do estúdio que será atualizado</param>
+            <param name="prontarioAtualizado">Objeto com os novos dados</param>
+            <returns>Um status code 204 - No Content</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.ProntuarioController.Deletar(System.Int32)">
+            <summary>
+            Deleta um prontuário existente
+            </summary>
+            <param name="idProntuario">Id do prontuário que será deletado</param>
+            <returns>um status code 204 - no content</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.TipoUsuarioController.Listar">
+            <summary>
+            Lista todos os Tipos de Usuarios
+            </summary>
+            <returns>Uma lista de tipos de usuarios com um status code 200 - Ok</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.UsuarioController.ListarMinhas">
+            <summary>
+            Listar Todas as consultas de um determinado usuario
+            </summary>
+            <returns>uma lista de consultas</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.UsuarioController.Listar">
+            <summary>
+            Lista todos os Usuarios
+            </summary>
+            <returns>Uma lista de Usuarios com um status code 200 - Ok</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.UsuarioController.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um Usuario através do seu id
+            </summary>
+            <param name="idUsuario">ID do Usuario que será buscado</param>
+            <returns>Um Usuario e um status code 200 - Ok</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.UsuarioController.Cadastrar(sp_medical_group.Domains.Usuario)">
+            <summary>
+            Cadastra um novo Usuario
+            </summary>
+            <param name="novoUsuario">Objeto com os dados que serão cadastrados</param>
+            <returns>Um status code 201 - Created</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.UsuarioController.Atualizar(System.Int32,sp_medical_group.Domains.Usuario)">
+            <summary>
+            Atualiza um Usuario existente
+            </summary>
+            <param name="idUsuario">ID do Usuario que será atualizado</param>
+            <param name="usuarioAtualizado">Objeto com os novos dados</param>
+            <returns>Um status code 204 - No Content</returns>
+        </member>
+        <member name="M:sp_medical_group.Controllers.UsuarioController.Deletar(System.Int32)">
+            <summary>
+            Deleta um Usuario
+            </summary>
+            <param name="idUsuario">id do Usuario que será deletado</param>
+            <returns>um staus code 204 - No content</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IClinicaRepository.Listar">
+            <summary>
+            Lista todos as Clinicas
+            </summary>
+            <returns>Uma lista de Clinicas</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IClinicaRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca uma Cilica através do seu id
+            </summary>
+            <param name="idClinica">ID da Cilica que será buscada</param>
+            <returns>Uma Cilica encontrado</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IClinicaRepository.Cadastrar(sp_medical_group.Domains.Clinica)">
+            <summary>
+            Cadastra um nova Cilica
+            </summary>
+            <param name="novaClinica">Objeto novaCilica com os dados que serão cadastrados</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IClinicaRepository.Atualizar(System.Byte,sp_medical_group.Domains.Clinica)">
+            <summary>
+            Atualiza uma Cilica existente
+            </summary>
+            <param name="idClinica">ID da Cilica que será atualizado</param>
+            <param name="clinicaAtualizada">Objeto clinicaAtualizada com as novas informações</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IClinicaRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta uma Clinica existente
+            </summary>
+            <param name="idClinica">ID da Clinica que será deletada</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IConsultasRepository.AtualizarSituacao(System.Int32,System.String)">
+            <summary>
+            Altera o status de uma Consulta
+            </summary>
+            <param name="idConsulta">ID da Consulta que terá a situação alterada</param>
+            <param name="Status">Parâmetro que atualiza a situação da presença para 1 - Realizada, 2 - Cancelada ou 3 - Agendada</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IConsultasRepository.AdicionarDescricao(System.Int32,sp_medical_group.Domains.Consulta)">
+            <summary>
+            adiciona ou altera uma dscrição de uma determinada consulta
+            </summary>
+            <param name="idConsulta">ID da Consulta que terá a dscrição alterada</param>
+            <param name="descrição">parâmetro que atualiza a descrição de uma consulta</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IConsultasRepository.Agendar(sp_medical_group.Domains.Consulta)">
+            <summary>
+            Agenda uma nova consulta
+            </summary>
+            <param name="novaConsulta">Objeto novaConsulta com os dados que serão cadastrados</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IConsultasRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta uma consulta existente
+            </summary>
+            <param name="idConsulta">ID da consulta que será deletada</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IConsultasRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca uma consulta através do seu id
+            </summary>
+            <param name="idConsulta">ID da consulta que será buscado</param>
+            <returns>Uma consulta encontrada</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IMedicoRepository.Listar">
+            <summary>
+            Lista todos os Medicos
+            </summary>
+            <returns>Uma lista de Medicos</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IMedicoRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um Medico através do seu id
+            </summary>
+            <param name="idMedico">ID do Medico que será buscado</param>
+            <returns>Um Medico encontrado</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IMedicoRepository.Cadastrar(sp_medical_group.Domains.Medico)">
+            <summary>
+            Cadastra um novo Medico
+            </summary>
+            <param name="novoMedico">Objeto novoMedico com os dados que serão cadastrados</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IMedicoRepository.Atualizar(System.Int32,sp_medical_group.Domains.Medico)">
+            <summary>
+            Atualiza um Medico existente
+            </summary>
+            <param name="idMedico">ID do Medico que será atualizado</param>
+            <param name="medicoAtualizado">Objeto Medic
+            oAtualizado com as novas informações</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IMedicoRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um Medico existente
+            </summary>
+            <param name="idMedico">ID do Medico que será deletado</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IProntuarioRepository.Listar">
+            <summary>
+            Lista todos os Prontuarios
+            </summary>
+            <returns>Uma lista de Prontuarios</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IProntuarioRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um Prontuario através do seu id
+            </summary>
+            <param name="idProntuario">ID do Prontuario que será buscado</param>
+            <returns>Um Prontuario encontrado</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IProntuarioRepository.Cadastrar(sp_medical_group.Domains.Prontuario)">
+            <summary>
+            Cadastra um novo Prontuario
+            </summary>
+            <param name="novoProntuario">Objeto novoProntuario com os dados que serão cadastrados</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IProntuarioRepository.Atualizar(System.Int32,sp_medical_group.Domains.Prontuario)">
+            <summary>
+            Atualiza um Prontuario existente
+            </summary>
+            <param name="idProntuario">ID do Prontuario que será atualizado</param>
+            <param name="prontuarioAtualizado">Objeto prontuarioAtualizado com as novas informações</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IProntuarioRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um Prontuario existente
+            </summary>
+            <param name="idProntuario">ID do Prontuario que será deletado</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.ITipoUsuarioRepository.Listar">
+            <summary>
+            Lista todos os Tipos de Usuarios
+            </summary>
+            <returns>Uma lista de Tipos de Usuarioss</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IUsuarioRepository.ListarMinhas(System.Int32,System.Int32)">
+            <summary>
+            Listar as consultas de um determinado Usuario
+            </summary>
+            <param name="idTipoUsuario">id do tipo de usuario para especificar qual tipo será listado</param>
+            <param name="idUsuario">id usuario que terá as consultas listadas</param>
+            <returns>uma lista de consultas</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IUsuarioRepository.Login(System.String,System.String)">
+            <summary>
+            Valida o usuário
+            </summary>
+            <param name="email">E-mail do usuário</param>
+            <param name="senha">Senha do usuário</param>
+            <returns>Um objeto do tipo Usuario que foi buscado</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IUsuarioRepository.Listar">
+            <summary>
+            Lista todos os Usuarios
+            </summary>
+            <returns>Uma lista de Prontuarios</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IUsuarioRepository.BuscarPorId(System.Int32)">
+            <summary>
+            Busca um Usuario através do seu id
+            </summary>
+            <param name="idUsuario">ID do Usuario que será buscado</param>
+            <returns>Um Usuario encontrado</returns>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IUsuarioRepository.Cadastrar(sp_medical_group.Domains.Usuario)">
+            <summary>
+            Cadastra um novo Usuario
+            </summary>
+            <param name="novoUsuario">Objeto novoUsuario com os dados que serão cadastrados</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IUsuarioRepository.Atualizar(System.Int32,sp_medical_group.Domains.Usuario)">
+            <summary>
+            Atualiza um Prontuario existente
+            </summary>
+            <param name="idUsuario">ID do Usuario que será atualizado</param>
+            <param name="usuarioAtualizado">Objeto usuarioioAtualizado com as novas informações</param>
+        </member>
+        <member name="M:sp_medical_group.Interfaces.IUsuarioRepository.Deletar(System.Int32)">
+            <summary>
+            Deleta um Usuario existente
+            </summary>
+            <param name="idUsuario">ID do Usuario que será deletado</param>
+        </member>
+        <member name="P:sp_medical_group.ViewModels.LoginViewModel.Email">
+            <summary>
+            Classe responsavel pelo modelo de login
+            </summary>
+        </member>
+    </members>
+</doc>
