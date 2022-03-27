@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+body {
+     margin: 0px;
+}
+.informacoes {
+    background-color: #1F76DB ;
+    height: 30px;
+    width: 100%;
+}
+
+.cabeçalho_text {
+    font-family: Arial, Helvetica, sans-serif;
+    color :#fff;
+    font-size: 10px;
+    margin-bottom: 10px;
+    padding-left: 26px;
+}
+.text_img{
+    margin-top: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.img_cabecalho{
+    position: absolute;
+    padding-top: 5px;
+    height: 20px;
+    width: 20px;
+}
+#redes{
+    position: absolute;
+    left: 93%;
+    top: 0%;
+    width: 68px;
+    height: 29px;
+    display: inline-block;
+}
+.img_redes{
+    padding-top: 5px;
+    height: 20px;
+    width: 20px;
+}
+.container{
+    width: 94%;
+    margin: 0 auto;
+}
+.cabecalhoPrincipal{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgba(255, 255, 255, 0.726);
+    padding: 6px 0;
+    box-shadow: 0px 2px 2px 0px rgba(128, 128, 128, 0.21);
+
+}
+.cabecalhoPrincipal img{
+    width: 35px;
+}
+.cabecalho-nav{
+    display: flex;
+}
+.cabecalhoPrincipal .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cabecalhoPrincipal a{
+    margin-right: 25px;
+    text-align: right;
+}
+.cabecalhoPrincipal h1{
+    margin: 0px;
+    font-size: 20px;
+    color: #16b9f5;
+    text-shadow: 1px 1px 2px #00000073;
+    position: absolute;
+    margin-left: 3%;
+}
+.btn_login{
+    background-color: transparent;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding-bottom: 5px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    font-size: 16px; 
+}
+.btn_login:hover{
+    box-shadow: 0px 3px 0px 0px rgb(31 119 219 / 91%);
+    cursor: pointer;
+}
