@@ -13,8 +13,9 @@ namespace sp_medical_group.Domains
         [BsonRepresentation(BsonType.ObjectId)]
         public string Id { get; set; }
 
-        [BsonElement("latitude")]
+        
         [BsonRequired]
+        [BsonElement("latitude")]
         public string Latitude { get; set; }
 
         [BsonRequired]

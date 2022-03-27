@@ -27,7 +27,7 @@ namespace sp_medical_group.Repositories
 
         public List<Localizacao> ListarTodos()
         {
-            return _localizacoes.Find(localizacao => true).ToList();
+            return _localizacoes.Find(Localizacao => true).ToList();
         }
     }
 }
